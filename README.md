@@ -1,4 +1,4 @@
-<p><div class="tenor-gif-embed" data-postid="6218060" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/anime-shot-gif-6218060">Anime Shot GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
+<p><img src="https://tenor.com/fr/view/anime-shot-gif-6218060"></p>
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
 <h3 align="center">A passionate developer from French 🇫🇷</h3>
 

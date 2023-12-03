@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Juiiceee/Juiiceee/blob/main/anime.gif" alt="animated" />
-</p>
+<p align="center"><img src="https://github.com/Juiiceee/Juiiceee/blob/main/anime.gif" alt="animated" /></p>
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
 <h3 align="center">A passionate developer from French 🇫🇷</h3>
 

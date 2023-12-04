@@ -25,3 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juiiceee&hide=Shell,Roff,Perl&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=jolly)

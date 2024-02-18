@@ -30,5 +30,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=jolly)-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/louis.behr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="louis.behr" height="30" width="40" /></a>
+<a href="https://instagram.com/louisbehr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="louis.behr" height="30" width="40" /></a>
 </p>

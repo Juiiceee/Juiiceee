@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
 <p align="center"><img src="https://github.com/Juiiceee/Juiiceee/blob/main/anime.gif" alt="animated" /></p>
-<h3 align="center">A passionate developer from French 🇫🇷</h3>
+<h3 align="center">A passionate developer from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on **4️⃣2️⃣ project**
 

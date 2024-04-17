@@ -8,6 +8,7 @@
 
 - ⚡ Fun fact **I think I'm funny🧚‍♂️**
 
+[![lbehr's 42 stats](https://badge42.coday.fr/api/v2/cls8u70jn1039901p40yzd31mk/stats?cursusId=21&coalitionId=45)]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />

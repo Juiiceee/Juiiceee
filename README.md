@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
-https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
+<p align="center"><img src="https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off" alt="animated" /></p>
 
 - 🔭 I’m currently working on **4️⃣2️⃣ project**
 
 - 👨‍💻 All of my projects are available at [https://profile.intra.42.fr/users/lbehr](https://profile.intra.42.fr/users/lbehr)
 
 - ⚡ Fun fact **I think I'm funny🧚‍♂️**
-
-<p align="center"><img src="https://github.com/Juiiceee/Juiiceee/blob/main/anime.gif" alt="animated" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />

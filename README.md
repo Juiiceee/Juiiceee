@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
-![lbehr's 42 stats](https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off)
+https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on **4️⃣2️⃣ project**

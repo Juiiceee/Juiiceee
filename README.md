@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
-<p align="center"><img src="https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off" alt="animated" /></p>
+<p align="center"><a href="https://profile.intra.42.fr/users/lbehr"><img src="https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off" alt="animated" /></a></p>
 
 - 🔭 I’m currently working on **4️⃣2️⃣ project**
 

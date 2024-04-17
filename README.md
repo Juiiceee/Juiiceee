@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 💻 Loul 🖱</h1>
-<p align="center"><img src="https://github.com/Juiiceee/Juiiceee/blob/main/anime.gif" alt="animated" /></p>
+![lbehr's 42 stats](https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off)
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on **4️⃣2️⃣ project**
@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I think I'm funny🧚‍♂️**
 
-[![lbehr's 42 stats](https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off)]
+<p align="center"><img src="https://github.com/Juiiceee/Juiiceee/blob/main/anime.gif" alt="animated" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />

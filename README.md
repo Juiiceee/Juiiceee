@@ -19,10 +19,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></p>
 <a href="google.com">
-  <img height=150 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiiceee&hide=Shell,Roff,Perl,Makefile&layout=compact" />
+  <img height=100 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiiceee&hide=Shell,Roff,Perl,Makefile&layout=compact" />
 </a>
 <a href="google.com">
-  <img height=150 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=jolly" />
+  <img height=100 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=jolly" />
 </a>
 <h3 align="left">Connect with me: <img src="https://github.com/Juiiceee/Juiiceee/blob/main/Handshake.gif" width="60"></h3>
 <p align="left">

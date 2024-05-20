@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></p>
 <a href="google.com">
-  <img height=100 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiiceee&hide=Shell,Roff,Perl,Makefile&layout=compact" />
+  <img height=120 width=49% align="center" src="https://github-readme-stats-juiceee.vercel.app/api/top-langs/?username=juiiceee&hide=Makefile&exclude_repo=github-readme-stats,Site-web-Louisbehr.com&langs_count=3&layout=compact" />
 </a>
 <a href="google.com">
   <img height=100 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=jolly" />

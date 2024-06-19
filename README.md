@@ -15,7 +15,7 @@ alt="c logo"  />
   <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/solidity/solidity_white.svg" height="40" alt="solidity logo"  />
+  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/solidity/solidity-white.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />

@@ -32,5 +32,6 @@ alt="c logo"  />
 </a>
 <h3 align="left">Connect with me: <img src="https://github.com/Juiiceee/Juiiceee/blob/main/Handshake.gif" width="60"></h3>
 <p align="left">
-<a href="https://instagram.com/louisbehr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="louis.behr" height="30" width="40" /></a>
+<a href="https://instagram.com/louisbehr_" target="blank"><img align="center" src="https://github.com/Juiiceee/GithubIcon/blob/main/icons/Social/instagram.svg" alt="louis.behr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/louis-behr" target="blank"><img align="center" src="https://github.com/Juiiceee/GithubIcon/blob/main/icons/Social/linked-in-alt.svg" alt="louis.behr" height="30" width="40" /></a>
 </p>

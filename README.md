@@ -19,6 +19,8 @@ alt="c logo"  />
   <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" alt="mysql logo"  />

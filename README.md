@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web 3 developer from France 🇫🇷</h3>
 <p align="center"><a href="https://profile.intra.42.fr/users/lbehr"><img src="https://badge.mediaplus.ma/greenbinary/lbehr?1337Badge=off&UM6P=off" alt="animated" /></a></p>
 
-- 🔭 I’m currently working on **4️⃣2️⃣ project** and **Sample**
+- 🔭 I’m currently working on **4️⃣2️⃣ project**, **Sample**, **Trusted**
 
 - 👨‍💻 All of my projects are available at [https://profile.intra.42.fr/users/lbehr](https://profile.intra.42.fr/users/lbehr)
 

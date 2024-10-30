@@ -29,7 +29,7 @@ alt="c logo"  />
   <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/anchor/anchor-plain.png" height="40" alt="anchor logo"  />
+  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/anchor/anchor-original.png" height="40" alt="anchor logo"  />
   <img width="12" />
   <img src="https://github.com/Juiiceee/devicon/blob/master/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />

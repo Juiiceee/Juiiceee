@@ -55,9 +55,6 @@ alt="c logo"  />
 ## 📬 Connect with Me
 
 <p align="left">
-<a href="https://instagram.com/louisbehr_" target="blank">
-  <img align="center" src="https://github.com/Juiiceee/GithubIcon/blob/main/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
 <a href="https://linkedin.com/in/louis-behr" target="blank">
   <img align="center" src="https://github.com/Juiiceee/GithubIcon/blob/main/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>

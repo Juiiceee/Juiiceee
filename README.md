@@ -9,7 +9,7 @@ I am a passionate blockchain developer with a strong focus on **Web3 technologie
 - **🎓 42 Paris Graduate** – Strong foundation in software engineering and problem-solving.
 - **🇫🇷 Member of SuperTeam France** – Contributing to the growth of Solana in France.
 - **🛠️ Turbine Graduate** – Advanced blockchain solana expertise.
-- **🔗 Co-founder of Synto** – A decentralized AI agent platform where users can enhance their wallets with NFT-based tools, create and trade AI functionalities, and leverage a dedicated marketplace.
+- **🔗 Co-founder of Synto** – Synto is a platform that simplifies onchain transactions through an AI-powered agent. For example, you can simply type a command like “Swap 10 USDC to SOL” and the agent executes it
 
 ---
 

@@ -5,12 +5,12 @@ I am a passionate blockchain developer with a strong focus on **Web3 technologie
 
 ### 🎯 Key Highlights:
 
-- **🏆 Web3 Hackathon Winner** – Proven track record in competitive blockchain development.
+- **🏆 Web3 Hackathon Winner** – Winner of the **AI Prize at Colosseum Breakout** with *Synto*. Proven track record in competitive blockchain development.
 - **🎓 42 Paris Graduate** – Strong foundation in software engineering and problem-solving.
 - **🇫🇷 Member of SuperTeam France** – Contributing to the growth of Solana in France.
-- **🛠️ Turbine Graduate** – Advanced blockchain solana expertise.
-- **🔗 Co-founder of Synto** – Synto is a platform that simplifies onchain transactions through an AI-powered agent.
-  - For example, you can simply type a command like “Swap 10 USDC to SOL” and the agent executes it
+- **🛠️ Turbine Graduate** – Advanced blockchain Solana expertise.
+- **🔗 Co-founder of Synto** – Synto is a platform that simplifies onchain transactions through an AI-powered agent.  
+  - Example: type “Swap 10 USDC to SOL” and the agent executes it seamlessly.
 
 ---
 

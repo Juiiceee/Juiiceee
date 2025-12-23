@@ -50,13 +50,3 @@ alt="c logo"  />
   <img height=120 width=49% align="center" src="https://github-readme-stats-rho-nine-52.vercel.app/api/top-langs/?username=juiiceee&hide=Makefile,Shell,Javascript&exclude_repo=github-readme-stats,Site-web-Louisbehr.com&langs_count=4&hide_progress=true&layout=compact" />
   <img height=150 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=issues,contribs&hide_rank=false&theme=jolly" />
 </div>
-
----
-
-## 📬 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/louis-behr" target="blank">
-  <img align="center" src="https://github.com/Juiiceee/GithubIcon/blob/main/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>

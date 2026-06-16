@@ -1,57 +1,85 @@
-# Hi, I'm Juiiceee
+<h1 align="center">Juiceee</h1>
+  <p align="center"><b>Freelance Solana / Rust Engineer</b> · Paris, France</p>
 
-**Blockchain Developer | Colosseum Winner | 42 Paris Alumni**
+  <p align="center">
+    I build high-performance Solana programs in Rust.<br/>
+    DeFi protocols, trading infrastructure and onchain tooling, shipped to mainnet under real constraints.
+  </p>
 
-CTO at a startup building high-performance infrastructure for token launches, trading, and lifecycle management, all with sub-30ms latency. Passionate about **Web3 technologies**, smart contracts, and decentralized applications.
+  <p align="center">
+    <a href="https://juiceee.dev"><img 
+  src="https://img.shields.io/badge/juiceee.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+    <a href="https://t.me/chainjuiceee"><img 
+  src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:me@juiceee.dev"><img 
+  src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://x.com/chainjuiceee"><img 
+  src="https://img.shields.io/badge/chainjuiceee-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  </p>
 
----
+  ---
 
-## Highlights
+  ### whoami
 
-- **AI Prize Winner** at Colosseum Breakout Hackathon with *Synto*
-- **42 Paris Graduate** — Strong foundation in software engineering and problem-solving
-- **SuperTeam France Member** — Contributing to the growth of Solana in France
-- **Turbine Graduate** — Advanced Solana blockchain expertise
-- **Co-founder of Synto** — AI-powered platform for seamless onchain transactions
+  - 🦀 Protocol-level **Rust** on the **Solana SVM** · Anchor & Pinocchio
+  - ⚡ High-performance **DeFi**, token systems, MEV bundles and trading backends
+  - 🛠 Shipped `30+` onchain tools across `10+` protocols
+  - 🎓 **42 Paris** · **Turbin3** cohort · **Solana Summer Fellowship** · **Superteam France**
+  - 📬 Fastest to reach on Telegram [@chainjuiceee](https://t.me/chainjuiceee)
 
----
+  ### 🏆 Recognition
 
-## Tech Stack
+  | Event | Result | Project |
+  | --- | --- | --- |
+  | **Colosseum Breakout** | 🥇 Winner · 1st University AI track | [Synto](https://synto.fun) |
+  | **EthOxford** | 🥇 Winner · 1st AI track | [DEFAI](https://github.com/Juiiceee/DEFAI) |
+  | **EthGlobal Cannes 2025** | 🥈 2nd place · LayerZero track | [Fluxo](https://fluxo-global.vercel.app/) |
 
-<p align="left">
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/anchor/anchor-original.png" height="40" alt="anchor logo"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/react/react-original.svg" height="40" alt="React"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/solidity/solidity-white.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="Javascript"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://github.com/Juiiceee/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
-  <img width="12" />
-</p>
+  ### 💼 Currently
 
----
+  Freelance Solana engineering at **Veintree** (onchain document anchoring), after shipping a `<20ms` Rust trading backend with
+  atomic MEV bundles at **Launchpad.Trade** and co-founding **[Synto](https://synto.fun)** (`600+` monthly sessions, `150+`
+  wallets).
 
-## GitHub Stats
+  Full resume → **[juiceee.dev/cv](https://juiceee.dev/cv)**
 
-<div>
-  <img height=120 width=49% align="center" src="https://github-readme-stats-peach-tau-64.vercel.app/api/top-langs/?username=juiiceee&hide=Makefile,Shell,Javascript&exclude_repo=github-readme-stats,Site-web-Louisbehr.com&langs_count=4&hide_progress=true&layout=compact&theme=transparent" />
-  <img height=150 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=issues,contribs&hide_rank=false&theme=transparent" />
-</div>
+  ### 🧰 Stack
 
----
+  **Core**
 
-## Activity
+  <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+    <img src="https://img.shields.io/badge/Anchor-2A2D34?style=flat-square&logoColor=white" alt="Anchor" />
+    <img src="https://img.shields.io/badge/Pinocchio-2A2D34?style=flat-square&logoColor=white" alt="Pinocchio" />
+  </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juiiceee&theme=github-compact&hide_border=true" width="100%" />
+  **Also**
+
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" 
+  />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  </p>
+
+  ### 📊 GitHub
+
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=juiiceee&show_icons=true&hide=issues,contribs&them
+  e=transparent&hide_border=true" alt="stats" />
+    <img height="165" 
+  src="https://github-readme-stats-peach-tau-64.vercel.app/api/top-langs/?username=juiiceee&hide=Makefile,Shell,Javascript&exclud
+  e_repo=github-readme-stats,Site-web-Louisbehr.com&langs_count=6&layout=compact&theme=transparent&hide_border=true" alt="top 
+  languages" />
+  </p>
+
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=juiiceee&theme=github-compact&hide_border=true&area=true" 
+  width="100%" alt="activity graph" />
+
+  <p align="center"><i>Builder. Not a consultant.</i></p>
